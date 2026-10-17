@@ -1,5 +1,5 @@
 // Дата старта (17 октября 2026)
-const startDate = new Date("2026-10-17T00:00:00");
+const startDate = new Date("2026-08-01T00:00:00");
 
 // Массив причин (100)
 const reasons = [
@@ -48,7 +48,7 @@ const reasons = [
   "Because you never judge me. I can tell you anything, and you don't make me feel bad.",
   "Because you support my dreams. You want me to succeed, and I feel it.",
   'Because you are proud of me. When I do something good, you always say "bravo".',
-  "Because you are proud of us. I know you want to show me to the world.",
+  "Because you are my safe place. With you, I can be completely honest and not be afraid of anything.",
   "Because you send me cute stickers. They always make me smile.",
   "Because you always respond. Even if it takes time, you always answer me.",
   "Because you make time for me. Even when you are busy, you find a moment to text me.",
@@ -58,7 +58,7 @@ const reasons = [
   "Because you are my future. I see you in my plans, and I hope you see me in yours.",
   "Because you are real. You are not a fantasy; you are a real, wonderful girl.",
   "Because you are worth waiting for. I would wait a lifetime to see you.",
-  "Because you are worth fighting for. I will do anything to be with you.",
+  "Because you make me want to be better. Every day with you makes me want to grow and become a better man.",
   "Because you are worth all the distance. I would cross oceans for you.",
   "Because you are my favourite notification. My heart jumps every time I see your name on my phone.",
   "Because you are my first thought in the morning. I wake up and check if you wrote to me.",
@@ -101,7 +101,7 @@ const reasons = [
   "Because you are patient with us. You wait for our meeting without giving up.",
   "Because you are my peace and my adventure. Life with you is calm, but never boring.",
   "Because you are my comfort. In your words, I find my home.",
-  "Because you are my future wife. I see a future with you, and it is beautiful.",
+  "Because I want to build beautiful memories with you. I want to experience many more summers, sunsets, and happy moments by your side.",
   "Because you are my forever. And I will love you until the end of time.",
 ];
 
