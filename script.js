@@ -1,5 +1,5 @@
 // Дата старта (17 октября 2026)
-const startDate = new Date("2026-08-01T00:00:00");
+const startDate = new Date("2026-10-17T00:00:00");
 
 // Массив причин (100)
 const reasons = [
